@@ -1,6 +1,5 @@
 #Welcome to my page 👋
 ##I'm Eric Hurtado!
-=====================
 
 I'm currently in college persuing a computer science degree, with which I plan on moving forward with software engineering.
 
