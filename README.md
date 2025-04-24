@@ -4,9 +4,9 @@ Welcome to my page 👋 I'm Eric!
 I'm currently in college persuing a computer science degree, with which I plan on moving forward with software engineering.
 
 * 🌍  I'm based in Ventura County, CA
-* 🚀  I'm currently working on [MachineMemo](http://github.com/Louuie/MachineMemo)
+* 🚀  I'm currently working on [MachineMemo](http://github.com/Louuie/MachineMemo) & [AutoMate](https://github.com/Joseph-Moreno/AutoMate)
 * 🧠  I'm learning Swift & Flask
-* 🤝  I'm open to collaborating on project involving the gym!
+* 🤝  I'm open to collaborating on projects!
 * ⚡  I don't know how to tell you this, but.. I'm BATMAN
 
 ### Skills
